@@ -2,7 +2,7 @@
 # auto kill multi login tiap 5 detik
 
 cd /usr/bin
-wget -O tendang "http://evira.us/tendang.sh"
+wget -O tendang "https://raw.githubusercontent.com/gugun09/autokill/master/tendang.sh"
 chmod +x tendang
 
 cd
